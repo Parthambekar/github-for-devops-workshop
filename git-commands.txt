@@ -61,3 +61,66 @@ git pull
 git push
 git pull
 add filename
+git init
+git status
+git add filename
+git rm --cache filename
+git add .
+git commit -m "message"
+git log --online 
+git chekout <hash> --filename.py
+git Commit 
+git pull
+git push
+git pull
+add filename
+
+git init
+git status
+git add filename
+git rm --cache filename
+git add .
+git commit -m "message"
+git log --online 
+git chekout <hash> --filename.py
+git Commit 
+git pull
+git push
+git pull
+add filenamegit init
+git status
+git add filename
+git rm --cache filename
+git add .
+git commit -m "message"
+git log --online 
+git chekout <hash> --filename.py
+git Commit 
+git pull
+git push
+git pull
+add filenamegit init
+git status
+git add filename
+git rm --cache filename
+git add .
+git commit -m "message"
+git log --online 
+git chekout <hash> --filename.py
+git Commit 
+git pull
+git push
+git pull
+add filenamegit init
+git status
+git add filename
+git rm --cache filename
+git add .
+git commit -m "message"
+git log --online 
+git chekout <hash> --filename.py
+git Commit 
+git pull
+git push
+git pull
+add filenameo
