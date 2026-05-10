@@ -1,0 +1,8 @@
+git init
+git status
+git add filename
+git rm --cache filename
+git add .
+git commit -m "message"
+git log --online 
+git chekout <hash> --filename.py
