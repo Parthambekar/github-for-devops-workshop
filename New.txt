@@ -1,0 +1,5 @@
+git Commit 
+git pull
+git push
+git pull
+add filename
